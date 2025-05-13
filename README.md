@@ -76,9 +76,9 @@ We automate this process using a Python script (`sqli.py` in this repo).
 
 | Question | Answer |
 |----------|--------|
-| **Admin username** | `TryHackMeAdmin` |
-| **Admin password** | `mamZtAuMlrsEy5bp6q17` |
-| **Flag**           | `THM{SQLit3_InJ3cTion_is_SimplE_nO?}` |
+| **Admin username** | `XXXXXXXXXXX` |
+| **Admin password** | `maXXXXXXXXXXXXXX` |
+| **Flag**           | `THM{SQLXXXXXXXXXXX}` |
 
 ---
 
