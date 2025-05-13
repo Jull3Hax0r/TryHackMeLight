@@ -40,7 +40,7 @@ nc 10.10.216.90 1337
 
 Entering `smokey` as the username results in the application auto-filling a password and looping the login.
 
-![Login prompt](https://jull3.se/thm/writeup/nc_login.png)
+![Login prompt](https://jull3.se/thm/writeup/nc_login.png?cachebust=20240513)
 
 No output or shell is returned, so we suspect some form of **SQL injection** might be possible via the username prompt.
 
