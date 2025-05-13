@@ -1,7 +1,7 @@
 # 💡 TryHackMe: Light – SQL Injection Writeup
 
 [![TryHackMe Room](https://img.shields.io/badge/TryHackMe-LightRoom-red?logo=tryhackme&style=flat-square)](https://tryhackme.com/room/lightroom)
-[![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-brightgreen?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3Hax0r)
+[![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-brightgreen?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3)
 
 > **Category:** Databases / SQLi  
 > **Difficulty:** Beginner → Intermediate  
