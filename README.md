@@ -35,7 +35,7 @@
 We connect using netcat:
 
 ```bash
-nc 10.10.216.90 1337
+nc MACHINE_IP 1337
 ```
 
 Entering `smokey` as the username results in the application auto-filling a password and looping the login.
