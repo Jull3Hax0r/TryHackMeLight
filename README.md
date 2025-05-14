@@ -1,8 +1,6 @@
 # 💡 TryHackMe: Light – SQL Injection Writeup
 [![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-blue?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3)
 [![TryHackMe Room](https://img.shields.io/badge/TryHackMe-Chill%20Hack-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/lightroom)
-
-
 > **Category:** Databases / SQLi  
 > **Difficulty:** Beginner → Intermediate  
 > **Target IP:** `MACHINE_IP`  
